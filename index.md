@@ -1,5 +1,5 @@
 # Avi Wadhwa
-5th year CS + Phil student at UBC. Graduating in December 2025. Interned at Apple for the summer of 2025.
+SDE 1 tvOS at CNN. 2026 UBC CS + Philosophy graduate. Interned at Apple for the summer of 2025.
 
 ## Contact
 - **Email:** [aviwad@outlook.com](mailto:aviwad@outlook.com)
@@ -19,7 +19,7 @@
 - Menubar, karaoke, and fullscreen lyrics views available
 - Swift Async/Await Concurrency used
 - Maps Apple Music songs to equivalent Spotify ID using ISRC to display Lyrics fetched from Spotify for either platform
-- 400+ stars on github
+- 600+ stars on github
 - [Technical Write Up (Coming Soon)](https://aviwadhwa.com/Creating%20Lyric%20Fever)
 - [GitHub](https://github.com/aviwad/LyricFever/)
 - [Download DMG](https://github.com/aviwad/LyricFever/releases/download/v2.2/Lyric.Fever.2.2.dmg)
