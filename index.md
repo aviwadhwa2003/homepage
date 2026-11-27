@@ -3,7 +3,7 @@ SDE 1 tvOS at CNN. 2026 UBC CS + Philosophy graduate. Interned at Apple for the 
 
 ## Contact
 - **Email:** [aviwad@outlook.com](mailto:aviwad@outlook.com)
-- **GitHub:** [@aviwad](https://github.com/aviwad)
+- **GitHub:** [@aviwadhwa2003](https://github.com/aviwadhwa2003)
 - **Linkedin:** [@aviwadhwa2003](https://linkedin.com/in/aviwadhwa2003)
 
 ## Projects
